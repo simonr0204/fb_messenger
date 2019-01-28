@@ -4,5 +4,6 @@
 
 # But not these files...
 !messenger.ipynb
+!friend_bot.ipynb
 !.gitignore
 !README.md
